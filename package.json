@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-site-with-strapi-deployed-on-render",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gatsby site with strapi deployed on render",
+  "author": "Anthony Salamin",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.9.0",
+    "gatsby-plugin-gatsby-cloud": "^2.9.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
